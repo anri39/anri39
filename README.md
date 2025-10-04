@@ -32,7 +32,10 @@ I love crafting beautiful UIs, writing clean code, and constantly learning new t
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -46,13 +49,6 @@ I love crafting beautiful UIs, writing clean code, and constantly learning new t
 ## 🏆 GitHub Trophies  
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=anri39&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 🧩 Projects  
-
-- 🌀 **Weather App** – A sleek and responsive app that delivers real-time weather data.  
-- 🧠 **Quiz App** – A fun, interactive app to test your knowledge with dynamic UI.  
 
 ---
 
