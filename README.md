@@ -16,7 +16,7 @@ I love crafting beautiful UIs, writing clean code, and constantly learning new t
 ## 🌐 Socials  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anri-ugrexelidze-485703325/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anri.dev@example.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anriugrexelidze2006@gmail.com)
 
 ---
 
