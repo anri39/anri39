@@ -1,36 +1,70 @@
-# Anri Ugrekhelidze 👋
+# 👋 Hey there, I'm Anri Ugrekhelidze  
 
-## About Me
-I am a passionate **Frontend Developer** based in Tbilisi, Georgia, specializing in building **dynamic, responsive, and user-friendly web applications**. I am proficient in **TypeScript, JavaScript, CSS, HTML**, and I enjoy exploring new technologies like **Tailwind CSS, SQL, Firebase, and Jest** to create **seamless user experiences**.
+---
 
-## Skills
-- **Languages:** TypeScript, JavaScript, HTML5, CSS3, C++, SQL  
-- **Frameworks & Libraries:** React, Zustand, Tailwind CSS  
-- **Tools & Platforms:** Git, VSCode, Firebase, Jest  
-- **Other:** RESTful APIs, Responsive Design, UI/UX Optimization  
+## 💫 About Me  
 
-## Projects
-- **Weather App** – A sleek application for real-time weather updates.  
-- **Quiz App** – An engaging platform to test your knowledge.  
+I'm a passionate **Frontend Developer** based in **Tbilisi, Georgia** 🇬🇪.  
+I specialize in building **dynamic, responsive, and user-friendly web applications** using modern web technologies.  
+I love crafting beautiful UIs, writing clean code, and constantly learning new tools to improve the user experience.  
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anri39)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anri39)  
+🧠 Currently exploring **Firebase**, **Jest**, and advanced **React patterns**.  
+💬 Always excited to discuss **frontend performance**, **UI/UX optimization**, and **web architecture**.
 
-## Contact
-- **Email:** anri.dev@example.com  
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anri-ugrexelidze-485703325/)  
+---
 
-## Badges & Icons
-![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue)  
-![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-red)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)  
-![React](https://img.shields.io/badge/-React-blueviolet)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-skyblue)  
-![Firebase](https://img.shields.io/badge/-Firebase-orange)  
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)  
-![Jest](https://img.shields.io/badge/-Jest-pink)  
+## 🌐 Socials  
 
-## Welcome Message
-Welcome to my GitHub profile! Feel free to explore my projects, learn from my code, or reach out for collaborations. **Happy coding!** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anri-ugrexelidze-485703325/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anri.dev@example.com)
+
+---
+
+## 💻 Tech Stack  
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+![Anri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anri39&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anri39&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=anri39&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+## 🧩 Projects  
+
+- 🌀 **Weather App** – A sleek and responsive app that delivers real-time weather data.  
+- 🧠 **Quiz App** – A fun, interactive app to test your knowledge with dynamic UI.  
+
+---
+
+## 🧠 Random Dev Quote  
+
+> "That hardly ever happens is another way of saying 'It happens.'"  
+> — *Douglas Crockford*
+
+---
+
+## 🚀 Welcome Message  
+
+Thanks for stopping by!  
+Feel free to explore my repositories, fork interesting projects, or reach out for collaboration.  
+**Happy Coding!** 💻✨
