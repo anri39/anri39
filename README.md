@@ -8,7 +8,7 @@ I'm a passionate **Frontend Developer** based in **Tbilisi, Georgia** 🇬🇪.
 I specialize in building **dynamic, responsive, and user-friendly web applications** using modern web technologies.  
 I love crafting beautiful UIs, writing clean code, and constantly learning new tools to improve the user experience.  
 
-🧠 Currently exploring **Firebase**, **Jest**, and advanced **React patterns**.  
+🧠 Currently exploring **Angular**, **Jest**, **Firebase** and advanced **React patterns**.  
 💬 Always excited to discuss **frontend performance**, **UI/UX optimization**, and **web architecture**.
 
 ---
